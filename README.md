@@ -1,10 +1,11 @@
 # roguelike
 creating a  2D Roguelike game in unity
 ---
-### 참고 강의
-https://www.inflearn.com/course/%EC%9C%A0%EB%8B%88%ED%8B%B0-3d-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A4%EA%B8%B0#
+### 참고 강의  
 
-[Roguelike](Roguelike.PNG)
+[강의 사이트 이동하기](
+https://www.inflearn.com/course/%EC%9C%A0%EB%8B%88%ED%8B%B0-3d-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A4%EA%B8%B0#)
+![Roguelike](Roguelike.PNG)
 
 1. 강좌 소개   
 유니티 3D 로그라이크 게임 만들기 강좌입니다. 유니티 공식 듀토리얼 영상을 jemin_DEV 님꼐서 번역해 주셧습니다.   
